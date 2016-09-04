@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "669414831590",
+    "firebase_url": "https://chatappandroid-ccf55.firebaseio.com",
+    "project_id": "chatappandroid-ccf55",
+    "storage_bucket": "chatappandroid-ccf55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669414831590:android:4f623b2c1dfdfc76",
+        "android_client_info": {
+          "package_name": "chatapp.appinhand.com.groupchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669414831590-virvorm5r18km4crnbj2ombr894q36rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_treV48R_7bg_m_pOcfBgZ4gH8ac-E8s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
